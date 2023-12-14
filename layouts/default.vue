@@ -4,7 +4,7 @@
     <div>
       <BaseHeader />
     </div>
-    <div class="flex-1">
+    <div class="flex-1 mt-14">
       <slot />
     </div>
     <div>
