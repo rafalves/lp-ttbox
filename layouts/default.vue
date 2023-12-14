@@ -1,10 +1,10 @@
 <template>
-  <Html class="antialiased scroll-smooth bg-red-100 font-inter">
+  <Html class="antialiased scroll-smooth font-inter">
   <div class="flex flex-col h-full mx-auto">
-    <div>
+    <div class="w-full">
       <BaseHeader />
     </div>
-    <div class="flex-1 mt-14">
+    <div class="flex-1">
       <slot />
     </div>
     <div>
