@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+html, body, #__nuxt {
+  height: 100%;
+} 
+
+::-webkit-scrollbar {
+  width: 0.5em;
+  height: 0.5em;
+}
+
+::-webkit-scrollbar-corner {
+  background:rgb(124, 212, 196);
+}
+::-webkit-scrollbar-track {
+  background: rgb(124, 212, 196);
+}
+
+::-webkit-scrollbar-thumb {
+  background: #807f7c;
+  border-radius: 100vw;
+} 
+::-webkit-scrollbar-thumb:hover {
+  background: hsl(210, 25%, 2%);
+}
+
+@supports (scrollbar-color: rgb(124, 212, 196) rgb(124, 212, 196);) {
+  * {
+    scrollbar-color: rgb(124, 212, 196) rgb(124, 212, 196); 
+    scrollbar-width: thin;
+  } 
+}
