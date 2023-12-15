@@ -29,17 +29,17 @@
           </ul>
         </nav>
       </div>
-      <div class="hidden md:flex space-x-5 items-center">
-        <NuxtLink><span class="text-[var(--title-color)] font-medium">Login</span></NuxtLink>
+      <div class="hidden md:flex ml-5 space-x-5 items-center">
+        <NuxtLink><span class="text-[var(--title-color)] font-medium">Entrar</span></NuxtLink>
         <button class="btn">
-          <NuxtLink><span class="whitespace-nowrap">Sign in</span></NuxtLink>
+          <NuxtLink><span class="whitespace-nowrap">Cadastrar</span></NuxtLink>
         </button>
       </div>
 
       <!-- -------------------------------------------------- 
       hamburguer menu
       -------------------------------------------------- -->
-      <div class="md:hidden transition-all ease-in-out duration-300 ">
+      <div class="md:hidden transition-all ease-in-out duration-300">
         <label for="menu" class="hover:bg-gray-200 rounded-full p-3 cursor-pointer">
           <input type="checkbox" id="menu" class="hidden peer/menu">
           <Icon
@@ -73,6 +73,13 @@
                   </li>
                 </ul>
               </nav>
+              <div class="flex flex-col items-center justify-center m-5 p-5 space-y-5 bg-[#d4d3cd] rounded-xl">
+                <NuxtLink><span class="text-[var(--title-color)] font-medium">Entrar</span></NuxtLink>
+                <button class="btn">
+                  <NuxtLink><span class="whitespace-nowrap">Cadastrar</span></NuxtLink>
+                </button>
+              </div>
+
             </div>
           </div>
         </label>
