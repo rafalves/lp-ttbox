@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-[var(--section-primary-color)]">
+  <section class="bg-[var(--section-primary-color)]">
     <div class="max-w-[var(--page-width)] mx-auto py-24">
 
       <div
@@ -18,16 +18,16 @@
           <button class="btn p-4 text-xl md:text-2xl w-fit self-center md:self-start">Começar Agora</button>
         </div>
         <div class="flex flex-1 relative md:m-5 mt-14">
-          <NuxtImg src="/img/main-section.jpg" quality="40" class="w-[400px] max-h-[300px]"
+          <NuxtImg src="/img/section/main-section.jpg" quality="40" class="w-[400px] max-h-[300px]"
             alt="Mulher usando o computador" />
-          <NuxtImg src="/img/main-section-component-1.png" quality="40"
+          <NuxtImg src="/img/section/main-section-component-1.png" quality="40"
             class="w-[150px] md:w-[200px] -top-14 md:-top-20 -right-8 md:right-0 absolute"
             alt="Grafico de analise de dados" />
-          <NuxtImg src="/img/main-section-component-2.png" quality="40"
+          <NuxtImg src="/img/section/main-section-component-2.png" quality="40"
             class="w-[120px] md:w-[150px] -bottom-3 md:-bottom-10 -left-3 md:-left-10 absolute"
             alt="Grafico de analise" />
         </div>
       </div>
     </div>
-  </div>
+  </section>
 </template>
