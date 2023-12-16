@@ -5,6 +5,6 @@
     <SectionBestFeatures />
     <SectionBestPlatform />
     <SectionPeopleSaying />
-    <div class="h-[1000px]" />
+    <SectionCta />
   </NuxtLayout>
 </template>

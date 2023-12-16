@@ -21,7 +21,7 @@
             para atingir todos os objetivos do projeto dentro das restrições fornecidas.</p>
 
           <ul
-            class="grid grid-cols-2 gap-5 [&_li]:max-w-[251px] [&_li]:text-lg [&_span]:mr-3 [&_li]:font-bold [&_li]:text-[--title-color] [&_span]:p-1 [&_span]:px-1 [&_span]:rounded-full [&_span]:bg-[--primary-color]">
+            class="grid md:grid-cols-2 gap-5 md:[&_li]:max-w-[251px] [&_li]:text-lg [&_span]:mr-3 [&_li]:font-bold [&_li]:text-[--title-color] [&_span]:p-1 [&_span]:px-1 [&_span]:rounded-full [&_span]:bg-[--primary-color]">
             <li>
               <span>
                 <Icon name="fluent:checkmark-12-filled" color="white" size="20" />
@@ -73,7 +73,7 @@
             para atingir todos os objetivos do projeto dentro das restrições fornecidas.</p>
 
           <ul
-            class=" [&_li]:mt-5 [&_li]:text-lg [&_span]:mr-3 [&_li]:font-bold [&_li]:text-[--title-color] [&_span]:p-1 [&_span]:px-1 [&_span]:rounded-full [&_span]:bg-[--primary-color]">
+            class="grid md:grid-cols-2 gap-5 md:[&_li]:max-w-[251px] [&_li]:text-lg [&_span]:mr-3 [&_li]:font-bold [&_li]:text-[--title-color] [&_span]:p-1 [&_span]:px-1 [&_span]:rounded-full [&_span]:bg-[--primary-color]">
             <li class="first:mt-0">
               <span>
                 <Icon name="fluent:checkmark-12-filled" color="white" size="20" />

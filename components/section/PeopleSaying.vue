@@ -20,16 +20,16 @@
             médica é
             muito qualificada e possui tecnologia de ponta.</p>
           <div class="flex flex-col gap-2 justify-end flex-1">
-            <p class="font-bold text-[--title-color] text-2xl">John Smith</p>
+            <p class="mt-5 font-bold text-[--title-color] text-xl">John Smith</p>
             <p class="md:text-lg text-stone-600 font-medium leading-relaxed md:leading-relaxed">Marketing Coordinator</p>
           </div>
         </div>
-        <div class="flex flex-col justify-center rotate-90 md:rotate-0 h-[100px] md:h-full md:inline shrink">
-          <NuxtImg class="w-16 md:w-12 md:h-72 md:mt-10 shrink md:mx-14 opacity-50"
-            src="/img/section/people-saying-section-component-1.png" />
+        <div class="flex flex-col justify-center rotate-90 md:rotate-0 h-full md:inline shrink">
+          <NuxtImg class="hidden md:inline w-16 md:w-12 md:h-72 md:mt-10 shrink md:mx-14 opacity-50"
+            src="/img/section/people-saying-section-component-1.png" alt="" />
         </div>
         <div class="md:mt-10">
-          <NuxtImg src="/img/section/people-saying-section.png" />
+          <NuxtImg src="/img/section/people-saying-section.png" alt="Fotos de rosto de pessoas sorrindo" />
         </div>
       </div>
     </div>

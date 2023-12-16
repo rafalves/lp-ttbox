@@ -5,7 +5,10 @@
       <div
         class="flex flex-col items-center md:flex-row justify-center tablet:justify-between gap-5 md:gap-10 lg:gap-20 w-full px-5 md:pt-20">
         <div class="flex flex-col md:w-1/2 space-y-7">
-          <p class="text-3xl tablet:text-4xl md:text-5xl font-extrabold text-[var(--title-color)]">O jeito mais fácil de
+          <p
+            class="text-center md:text-start text-3xl tablet:text-4xl md:text-5xl font-extrabold text-[var(--title-color)]">
+            O jeito
+            mais fácil de
             gerenciar seus projetos</p>
           <p class="md:text-lg text-stone-600">O gerenciamento de projetos é o processo de liderar o trabalho de uma
             equipe
