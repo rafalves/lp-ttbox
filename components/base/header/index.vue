@@ -30,9 +30,9 @@
         </nav>
       </div>
       <div class="hidden md:flex ml-5 space-x-5 items-center">
-        <NuxtLink><span class="text-[var(--title-color)] font-medium">Entrar</span></NuxtLink>
+        <NuxtLink to="#"><span class="text-[var(--title-color)] font-medium">Entrar</span></NuxtLink>
         <button class="btn">
-          <NuxtLink><span class="whitespace-nowrap">Cadastrar</span></NuxtLink>
+          <NuxtLink to="#"><span class="whitespace-nowrap">Cadastrar</span></NuxtLink>
         </button>
       </div>
 
@@ -49,7 +49,7 @@
           side bar menu
           -------------------------------------------------- -->
           <div
-            class="flex flex-col -translate-x-[100dvh]  w-[200px] absolute top-0 left-0 peer-checked/menu:translate-x-0 duration-500">
+            class="flex flex-col -translate-x-[100dvh]  w-[200px] absolute top-0 left-0 peer-checked/menu:translate-x-0 duration-500 cursor-default">
             <div class="h-[64px] w-full bg-transparent" />
             <div class="bg-white h-screen">
               <p class="text-center my-5 text-2xl font-bold text-[var(--title-color)]">Links</p>
@@ -74,9 +74,9 @@
                 </ul>
               </nav>
               <div class="flex flex-col items-center justify-center m-5 p-5 space-y-5 bg-[#d4d3cd] rounded-xl">
-                <NuxtLink><span class="text-[var(--title-color)] font-medium">Entrar</span></NuxtLink>
+                <NuxtLink to="#"><span class="text-[var(--title-color)] font-medium">Entrar</span></NuxtLink>
                 <button class="btn">
-                  <NuxtLink><span class="whitespace-nowrap">Cadastrar</span></NuxtLink>
+                  <NuxtLink to="#"><span class="whitespace-nowrap">Cadastrar</span></NuxtLink>
                 </button>
               </div>
 
