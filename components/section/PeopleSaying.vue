@@ -25,7 +25,7 @@
           </div>
         </div>
         <div class="flex flex-col justify-center rotate-90 md:rotate-0 h-full md:inline shrink">
-          <NuxtImg class="hidden md:inline w-16 md:w-12 md:h-72 md:mt-10 shrink md:mx-14 opacity-50"
+          <NuxtImg class="hidden md:inline w-[48px] md:w-12 md:h-72 md:mt-10 shrink md:mx-14 opacity-50"
             src="/img/section/people-saying-section-component-1.png" alt="" />
         </div>
         <div class="md:mt-10">
