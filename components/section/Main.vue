@@ -21,7 +21,7 @@
           <button class="btn p-4 text-xl md:text-2xl w-fit self-center md:self-start">Começar Agora</button>
         </div>
         <div class="flex flex-1 relative md:m-5 mt-14">
-          <NuxtImg src="/img/section/main-section.jpg" quality="40" class="w-[400px] max-h-[300px]"
+          <NuxtImg src="/img/section/main-section.webp" class="w-[400px] max-h-[300px]"
             alt="Mulher usando o computador" />
           <NuxtImg src="/img/section/main-section-component-1.png" quality="40"
             class="w-[150px] md:w-[200px] -top-14 md:-top-20 -right-5 md:right-0 absolute"
