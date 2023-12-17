@@ -24,7 +24,7 @@
           <NuxtImg src="/img/section/main-section.jpg" quality="40" class="w-[400px] max-h-[300px]"
             alt="Mulher usando o computador" />
           <NuxtImg src="/img/section/main-section-component-1.png" quality="40"
-            class="w-[150px] md:w-[200px] -top-14 md:-top-20 -right-8 md:right-0 absolute"
+            class="w-[150px] md:w-[200px] -top-14 md:-top-20 -right-5 md:right-0 absolute"
             alt="Grafico de analise de dados" />
           <NuxtImg src="/img/section/main-section-component-2.png" quality="40"
             class="w-[120px] md:w-[150px] -bottom-3 md:-bottom-10 -left-3 md:-left-10 absolute"
