@@ -3,9 +3,9 @@
     <SectionMain />
     <SectionTrusted />
     <SectionBestFeatures />
-    <SectionBestPlatform />
-    <SectionPeopleSaying />
-    <SectionCta />
+    <LazySectionBestPlatform />
+    <LazySectionPeopleSaying />
+    <LazySectionCta />
   </NuxtLayout>
 </template>
 
